@@ -31,7 +31,7 @@ Atuo no desenvolvimento de **automações avançadas**, **web scraping** e **pla
 -   🤖 Agentes de IA e Automações Inteligentes 
 -   🔍 Web Scraping e Extração de Dados 
 -   ⚡ Otimização de Performance e Escalabilidade
--   🧩 Arquitetura de Sistemas e Clean Code
+-   🧩 Varredura de seguranças
 -   📊 Dashboards e Sistemas de Gestão
 
 ---
