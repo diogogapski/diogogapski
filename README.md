@@ -71,8 +71,8 @@ Atuo no desenvolvimento de **automações avançadas**, **web scraping** e **pla
 
 ## � Filosofia
 
-> _"Código não serve apenas para resolver problemas.  
-> Serve para construir soluções que escalam, duram e geram valor real."_
+> _"Programar não é apenas escrever código.
+É transformar ideias em soluções reais."_
 
 ---
 
