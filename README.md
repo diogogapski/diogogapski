@@ -15,7 +15,7 @@ Atuo no desenvolvimento de **automações avançadas**, **web scraping** e **pla
   <a href="https://github.com/diogogapski">
     <img src="https://img.shields.io/badge/GitHub-DIOGOGAPSKI-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://br.linkedin.com/in/diogo-gapski">
+  <a href="https://br.linkedin.com/in/diogo-gapski-b3b3172b8">
     <img src="https://img.shields.io/badge/LinkedIn-DIOGO%20GAPSKI-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://diogogapski.netlify.app">
