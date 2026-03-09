@@ -1,4 +1,4 @@
-# Hi 👋, I'm Diogo Gapski
+# Ola 👋, Eu sou Diogo Gapski
 
 🚀 **Full-Stack Developer | AI Specialist**  
 🇧🇷 Brazil
